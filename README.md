@@ -1,9 +1,9 @@
-[![javaKataTennis](https://i.imgur.com/A9roS0I.png)](#)
+[![javaKataTennis](https://i.imgur.com/ldZEZHN.png)](#)
 
 # TennisKata
 This Kata can be found here: https://codingdojo.org/kata/Tennis/
 ## Description
-This Kata is about implementing a simple tennis game. I came up with it while thinking about Wii tennis, where they have simplified tennis, so each set is one game.
+This Kata is about implementing a simple tennis game.
 
 The scoring system is rather simple:
 
