@@ -1,6 +1,7 @@
 [![javaKataTennis](https://i.imgur.com/ldZEZHN.png)](#)
 
 # TennisKata
+[![Coverage Status](https://coveralls.io/repos/github/lcristianiim/java-kata-tennis/badge.svg?branch=main)](https://coveralls.io/github/lcristianiim/java-kata-tennis?branch=main)
 This Kata can be found here: https://codingdojo.org/kata/Tennis/
 ## Description
 This Kata is about implementing a simple tennis game.
